@@ -1,1 +1,1 @@
-# 47.5Stacks-QueuesExercise
+Stacks-QueuesExercise
